@@ -1,0 +1,14 @@
+
+/* DataTableDemo.css */
+
+.datatable-crud-demo .table-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.datatable-crud-demo .confirmation-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
